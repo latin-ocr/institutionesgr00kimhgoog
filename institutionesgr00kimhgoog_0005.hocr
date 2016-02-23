@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionesgr00kimhgoog_0005.png"; bbox 0 0 2546 3801; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 286 689 1941 919">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 286 689 1941 919">
+     <span class='ocr_line' id='line_1_1' title="bbox 286 689 1941 792; baseline 0.002 -47"><span class='ocrx_word' id='word_1_1' title='bbox 286 689 1329 782; x_wconf 58' lang='lat' dir='ltr'><strong>FR.sfissAn11Ava</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1379 689 1941 792; x_wconf 66' lang='grc' dir='ltr'><strong>ΜνΝεΊ-Εκ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 362 804 1911 919; baseline -0.008 -36.839"><span class='ocrx_word' id='word_1_3' title='bbox 362 811 614 919; x_wconf 62' lang='lat' dir='ltr'><strong>RYS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 671 810 1330 903; x_wconf 64' lang='lat' dir='ltr'><strong>MINORITA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1346 804 1839 886; x_wconf 72' lang='lat' dir='ltr'><strong>HEBRAtae</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1907 837 1911 840; x_wconf 94' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 440 913 1879 1055">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 440 913 1879 1055">
+     <span class='ocr_line' id='line_1_3' title="bbox 440 913 1879 1055; baseline 0.008 -41.311"><span class='ocrx_word' id='word_1_7' title='bbox 440 919 892 1051; x_wconf 80' lang='lat' dir='ltr'>caelmguae</span> <span class='ocrx_word' id='word_1_8' title='bbox 917 913 1438 1055; x_wconf 75' lang='lat' dir='ltr'>candidatis</span> <span class='ocrx_word' id='word_1_9' title='bbox 1489 923 1590 1025; x_wconf 88' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1647 929 1879 1024; x_wconf 94' lang='lat' dir='ltr'>D</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
